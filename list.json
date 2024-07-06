@@ -1,0 +1,9 @@
+{
+    "000":{
+        "name":"Test",
+        "version":"1.0.0",
+        "description":"该插件是一个测试插件",
+        "author":"siquan001",
+        "url":"/addon_market/000/index.js"
+    }
+}
