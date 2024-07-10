@@ -17,5 +17,17 @@
         "url":"/addon_market/001/index.js",
         "icon":"https://mat1.gtimg.com/pingjs/ext2020/weather/pc/icon/weather/day/01.png",
         "website":"https://siquan001.github.io/"
+    },
+    "002":{
+        "name":"热点",
+        "version_code":1,
+        "version":"1.0.0",
+        "desc":"点击左下角的图标查看今日热点",
+        "url":"/addon_market/002/index.js",
+        "author":"siquan",
+        "icon":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAAAXNSR0IArs4c6QAAA55JREFUaEPtWjuPElEUdhAZ8RFi66oxZjpE5CWFndnEmGyrhnVj53Zro4nuRrNosrqNhZaURrCwsbCwMnZglqdIpWtMfPyA1QRWXn6X3EsAZ4Z7YQaGwCST3Zk595zvO4977sxF2qNzBAKBA3h8F+dis9k8KUnSXj15s58BQx0YvsFO3OFwbCaTybKkZZSCf4fnYbOBDag/BRIX9Ag8hOL7AyofyTBE44EmAb/fvw2BUxTJWqVSeVIqlf6OBJmGEbfb7ZBl+TZwbVCRL3oEaiznAV4eN3jGSVEU2eVyVch1qyZ0aqDJnmUyGU25cUQE9dnGJkwgGAxugPktAJc5wX+G3CU4YZtTvq+YKgGPx3ME+bUAcEephk21CGDwLu47+lrpFlgDgceCYzTF/yOAgr2CfI9hhEttVGcKdQ7mBURmi3Q6HeWV7yfXRQApcb7RaLyHEbvWQC0CerUBvVFEc53o7CRAnIVbcT17KjjysOVj97sI4OItHlxk0xL+vsZZx3lHI4W4iluLAOydgN4bOPf18zR7DkcUs9lsXJUAPLIDbxymDxVWbJ0sjYwAL2g9ud4IqHp0RkCjBsLh8LFqtRpB1G0C0fiKLHilVQMjjQBS9iotYpGV7UcQ8FqCgIDX+fqAaK739AHyrqB6YOaYR5rM906jViPAhcfURjZABMjaRuFCToUQjSU2j5vRyISKGAAUeDQCbAc5SZACfAnZlh3DG5loBDhBmyo2VCMzFRmn8qEIYPBl2GGvmpwmhxYzrpGhBoqogdNDQxJTUEQdnTGkkYnZNUd6qBQyB5KY1ukmAPYF+Kudj2K+G1i6gBo4a0gNoIiXRl3E6OSf0MlfGEJgYB8aOHDqa0CokSH8jXq9nigUCj9JEMb+RibayOg3/Qh7JaSr0YTgXsOskVn34+7ULadFGxlqgOwzLLIaIKtZ3CM1oPkpU2XGHWsjq9psttjW1tZ3AiwUCh3Ht9hl/CvyaXHWyCayiNlGxi7yd3/HOmQyGhndSrqJgnuKhdQ9RsCKjew3wB0iAFFcc7lc7peB6y7DVXm93jm73f6DKIZzdySfz/cBs8Q5amkV6dLeGzPcugEKMQ2vQs0jqiol4cYKLp7RG2Qjex2ReG61SFDPXwe+KM7WJiN6yYpEN45TuG6/8RjgqFGoyGMDPtyaHim7NxNEIl+r1RbIEr09v5PfITidzmUUxjUQId99WoVtoeMPUqYIPIlyuRxjP334B98K7ZM3qBnqAAAAAElFTkSuQmCC",
+        "website":"https://siquan001.github.io/",
+        "update":"version.txt",
+        "signature":"siquan.news"
     }
 }
