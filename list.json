@@ -1,7 +1,8 @@
 {
     "000":{
         "name":"Test",
-        "version":"1.0.0",
+        "version":"3.0",
+        "version_code":3,
         "desc":"该插件是一个测试插件",
         "author":"siquan",
         "url":"/addon_market/000/index.js",
@@ -10,6 +11,7 @@
     "001":{
         "name":"天气",
         "version":"1.0.1",
+        "version_code":2,
         "desc":"在QUIK起始页左上角显示今日天气",
         "author":"siquan",
         "url":"/addon_market/001/index.js",
