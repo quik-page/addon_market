@@ -10,8 +10,8 @@
     },
     "001":{
         "name":"天气",
-        "version":"1.0.3",
-        "version_code":4,
+        "version":"1.0.4",
+        "version_code":5,
         "desc":"在QUIK起始页左上角显示今日天气",
         "author":"siquan",
         "url":"/addon_market/001/index.js",
@@ -20,8 +20,8 @@
     },
     "002":{
         "name":"热点",
-        "version_code":1,
-        "version":"1.0.0",
+        "version_code":2,
+        "version":"1.0.1",
         "desc":"点击左下角的图标查看今日热点",
         "url":"/addon_market/002/index.js",
         "author":"siquan",
