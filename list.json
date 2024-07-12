@@ -1,13 +1,4 @@
 {
-    "000":{
-        "name":"Test",
-        "version":"3.0",
-        "version_code":3,
-        "desc":"该插件是一个测试插件",
-        "author":"siquan",
-        "url":"/addon_market/000/index.js",
-        "website":"https://siquan001.github.io/"
-    },
     "001":{
         "name":"天气",
         "version":"1.0.4",
@@ -27,7 +18,26 @@
         "author":"siquan",
         "icon":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAAAXNSR0IArs4c6QAAA55JREFUaEPtWjuPElEUdhAZ8RFi66oxZjpE5CWFndnEmGyrhnVj53Zro4nuRrNosrqNhZaURrCwsbCwMnZglqdIpWtMfPyA1QRWXn6X3EsAZ4Z7YQaGwCST3Zk595zvO4977sxF2qNzBAKBA3h8F+dis9k8KUnSXj15s58BQx0YvsFO3OFwbCaTybKkZZSCf4fnYbOBDag/BRIX9Ag8hOL7AyofyTBE44EmAb/fvw2BUxTJWqVSeVIqlf6OBJmGEbfb7ZBl+TZwbVCRL3oEaiznAV4eN3jGSVEU2eVyVch1qyZ0aqDJnmUyGU25cUQE9dnGJkwgGAxugPktAJc5wX+G3CU4YZtTvq+YKgGPx3ME+bUAcEephk21CGDwLu47+lrpFlgDgceCYzTF/yOAgr2CfI9hhEttVGcKdQ7mBURmi3Q6HeWV7yfXRQApcb7RaLyHEbvWQC0CerUBvVFEc53o7CRAnIVbcT17KjjysOVj97sI4OItHlxk0xL+vsZZx3lHI4W4iluLAOydgN4bOPf18zR7DkcUs9lsXJUAPLIDbxymDxVWbJ0sjYwAL2g9ud4IqHp0RkCjBsLh8LFqtRpB1G0C0fiKLHilVQMjjQBS9iotYpGV7UcQ8FqCgIDX+fqAaK739AHyrqB6YOaYR5rM906jViPAhcfURjZABMjaRuFCToUQjSU2j5vRyISKGAAUeDQCbAc5SZACfAnZlh3DG5loBDhBmyo2VCMzFRmn8qEIYPBl2GGvmpwmhxYzrpGhBoqogdNDQxJTUEQdnTGkkYnZNUd6qBQyB5KY1ukmAPYF+Kudj2K+G1i6gBo4a0gNoIiXRl3E6OSf0MlfGEJgYB8aOHDqa0CokSH8jXq9nigUCj9JEMb+RibayOg3/Qh7JaSr0YTgXsOskVn34+7ULadFGxlqgOwzLLIaIKtZ3CM1oPkpU2XGHWsjq9psttjW1tZ3AiwUCh3Ht9hl/CvyaXHWyCayiNlGxi7yd3/HOmQyGhndSrqJgnuKhdQ9RsCKjew3wB0iAFFcc7lc7peB6y7DVXm93jm73f6DKIZzdySfz/cBs8Q5amkV6dLeGzPcugEKMQ2vQs0jqiol4cYKLp7RG2Qjex2ReG61SFDPXwe+KM7WJiN6yYpEN45TuG6/8RjgqFGoyGMDPtyaHim7NxNEIl+r1RbIEr09v5PfITidzmUUxjUQId99WoVtoeMPUqYIPIlyuRxjP334B98K7ZM3qBnqAAAAAElFTkSuQmCC",
         "website":"https://siquan001.github.io/",
-        "update":"version.txt",
         "signature":"siquan.news"
+    },
+    "003":{
+        "name":"便签",
+        "version_code":1,
+        "version":"1.0.0",
+        "url":"/addon_market/003/index.js",
+        "desc":"在右上角打开便签，快速记录一些事情，也可以将一条便签固定在页面左上方提醒自己",
+        "author":"siquan",
+        "icon":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAAAXNSR0IArs4c6QAAAd5JREFUaEPtWTtOwzAYtl1YkJK02TvDxgUYYIEVCakSO/QMXAJxABAXAIkLMFBRxMqIujAAAxKkL8FE/eOAiprGeblOYivuGNu/v5dTx8ZI8x/WHD8yBMp2kOvA17nbnFB6ggBvI4ytUkECjBHC1wDkyG6/9+axhAj8gUcPrKNbKvDw5F4N0PrKofcy2xQiMD6rXyJE9hQDP4VzYR14rXgCp41R6bGJUo/CyGr3nQQHXFBU/V9YzIFAajgR0pzAsOso7YCzMYx3wBDIeQEZB3IWOLG8cSBRopw7VNcB8ljLWdtgebo24c4n7ID2BAqVP2YyYQcMAUkKVNcB7Rex9gQkRXjhMtVdAwtLJ6lAdR0QXcRRexpRQ4Qd0J6AqGJpxuFv1uuNIPzJDhxo9Aiw6Y3dGmzFHmwVfSrhg8dPbKvO3z3/Y+WB9xtDB1uFE3hlyo/jrymiwCtBgPSY+hljo1SE4l4OYAPLfD+Q+fkVUnqEogikAa9GhDjf2mnBK0kgC3g+gVu70AuO2QhlBc8lMLhzrjCg3TR/QDL6TAmIgOcSGHWtVUDknjU2ZABMquETEAXPJeA//Oi4zeWlyTFQ2GH3ZXYSiEXa4Zl06vv9TdEa5qZeVDlZ44wDspQUrfMDQ3UCQPMbnfEAAAAASUVORK5CYII=",
+        "website":"https://siquan001.github.io/",
+        "signature":"siquan.notes"
+    },
+    "000":{
+        "name":"Test",
+        "version":"3.0",
+        "version_code":3,
+        "desc":"该插件是一个测试插件",
+        "author":"siquan",
+        "url":"/addon_market/000/index.js",
+        "website":"https://siquan001.github.io/"
     }
 }
