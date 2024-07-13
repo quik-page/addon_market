@@ -22,8 +22,8 @@
     },
     "003":{
         "name":"便签",
-        "version_code":2,
-        "version":"1.0.1",
+        "version_code":3,
+        "version":"1.0.2",
         "url":"/addon_market/003/index.js",
         "desc":"在右上角打开便签，快速记录一些事情，也可以将一条便签固定在页面左上方提醒自己",
         "author":"siquan",
