@@ -31,6 +31,16 @@
         "website":"https://siquan001.github.io/",
         "signature":"siquan.notes"
     },
+    "004":{
+        "name":"屏保",
+        "version":"1.0.0",
+        "version_code":1,
+        "desc":"在右上角菜单中打开全屏屏保(图标来源：https://www.flaticon.com/free-icons/image-comics)",
+        "icon":"https://cdn-icons-png.flaticon.com/128/8820/8820179.png",
+        "author":"siquan",
+        "url":"/addon_market/004/index.js",
+        "website":"https://siquan001.github.io/"
+    },
     "000":{
         "name":"Test",
         "version":"3.0",
