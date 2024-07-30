@@ -41,6 +41,15 @@
         "url":"/addon_market/004/index.js",
         "website":"https://siquan001.github.io/"
     },
+    "005":{
+        "name":"从HTML导入书签工具",
+        "version":"1.0.0",
+        "version_code":1,
+        "desc":"从HTML导入书签工具，点击右上角主菜单导入",
+        "author":"siquan",
+        "url":"/addon_market/005/index.js",
+        "website":"https://siquan001.github.io/"
+    },
     "006":{
         "name":"界面优化",
         "version":"1.0.1",
