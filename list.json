@@ -1,8 +1,8 @@
 {
     "101":{
         "name":"主题包",
-        "version":"1.0.0",
-        "version_code":1,
+        "version":"1.0.1",
+        "version_code":2,
         "desc":"官方主题包，目前提供 板正主题、大字主题 两个主题，不定时更新",
         "author":"siquan",
         "url":"/addon_market/101/index.js",
