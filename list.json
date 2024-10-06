@@ -19,6 +19,15 @@
         "url":"/addon_market/102/index.js",
         "website":"https://siquan001.github.io/"
     },
+    "103":{
+        "name":"链接搜索",
+        "version":"1.0.0",
+        "version_code":1,
+        "desc":"在搜索框输入收藏的链接的关键字（标题或者网址域名），即可快速从搜索联想中打开链接。",
+        "author":"siquan",
+        "url":"/addon_market/103/index.js",
+        "website":"https://siquan001.github.io/"
+    },
     "001":{
         "name":"天气",
         "version":"1.0.6",
