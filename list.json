@@ -40,8 +40,8 @@
     },
     "002":{
         "name":"热点",
-        "version_code":2,
-        "version":"1.0.1",
+        "version_code":3,
+        "version":"1.0.2",
         "desc":"点击左下角的图标查看今日热点",
         "url":"/addon_market/002/index.js",
         "author":"siquan",
