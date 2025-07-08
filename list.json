@@ -20,11 +20,11 @@
     },
     "102":{
         "name":"翻译",
-        "version":"1.0.0",
-        "version_code":1,
+        "version":"1.0.1",
+        "version_code":2,
         "desc":"随时翻译需要的文本，支持多种语言，安装后在主菜单中打开",
         "author":"siquan",
-        "icon":"https://image.gumengya.com/i/2024/09/16/66e7a31e382b5.png",
+        "icon":"https://image.gmya.net/i/2024/09/16/66e7a31e382b5.png",
         "url":"/addon_market/102/index.js",
         "website":"https://siquan001.github.io/"
     },
@@ -44,13 +44,13 @@
         "desc":"在QUIK起始页左上角显示今日天气",
         "author":"siquan",
         "url":"/addon_market/001/index.js",
-        "icon":"https://image.gumengya.com/i/2024/07/29/66a737fbaefad.png",
+        "icon":"https://image.gmya.net/i/2024/07/29/66a737fbaefad.png",
         "website":"https://siquan001.github.io/"
     },
     "002":{
         "name":"热点",
-        "version_code":3,
-        "version":"1.0.2",
+        "version_code":4,
+        "version":"1.0.3",
         "desc":"点击左下角的图标查看今日热点",
         "url":"/addon_market/002/index.js",
         "author":"siquan",
@@ -71,8 +71,8 @@
     },
     "004":{
         "name":"屏保",
-        "version":"1.0.0",
-        "version_code":1,
+        "version":"1.0.1",
+        "version_code":2,
         "desc":"在右上角菜单中打开全屏屏保(图标来源：https://www.flaticon.com/free-icons/image-comics)",
         "icon":"https://cdn-icons-png.flaticon.com/128/8820/8820179.png",
         "author":"siquan",
