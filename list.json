@@ -10,8 +10,8 @@
     },
     "101":{
         "name":"主题包",
-        "version":"1.0.1",
-        "version_code":2,
+        "version":"1.0.2",
+        "version_code":3,
         "desc":"官方主题包，目前提供 板正主题、大字主题 两个主题，不定时更新",
         "author":"siquan",
         "icon":"https://api.tfseek.top/public/resources/q-4574d18.png",
@@ -39,8 +39,8 @@
     },
     "106":{
         "name":"Co主题包",
-        "version":"1.0.0",
-        "version_code":1,
+        "version":"1.0.1",
+        "version_code":2,
         "desc":"一个提供各种现代化风格的主题包",
         "author":"siquan",
         "url":"/addon_market/106/index.js",
