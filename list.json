@@ -39,9 +39,9 @@
     },
     "106":{
         "name":"Co主题包",
-        "version":"1.0.1",
-        "version_code":2,
-        "desc":"一个提供各种现代化风格的主题包",
+        "version":"1.1.0",
+        "version_code":3,
+        "desc":"一个提供各种风格的颜色主题包，包括落叶、森林、海洋、青石、焦糖、少女粉、紫水晶等颜色主题",
         "author":"siquan",
         "url":"/addon_market/106/index.js",
         "website":"https://siquan001.github.io/"
