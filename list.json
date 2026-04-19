@@ -48,8 +48,8 @@
     },
     "001":{
         "name":"天气",
-        "version":"1.0.8",
-        "version_code":9,
+        "version":"1.0.9",
+        "version_code":10,
         "desc":"在QUIK起始页左上角显示今日天气",
         "author":"siquan",
         "url":"/addon_market/001/index.js",
